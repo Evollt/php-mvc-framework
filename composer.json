@@ -1,0 +1,15 @@
+{
+    "name": "evollt/php-mvc-framework",
+    "authors": [
+        {
+            "name": "evollt",
+            "email": "levniko343@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
